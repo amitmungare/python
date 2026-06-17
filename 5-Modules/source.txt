@@ -1,0 +1,4 @@
+hello this is amit
+this is a test file
+reading this file 
+and writing in this file
